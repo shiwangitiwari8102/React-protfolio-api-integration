@@ -1,0 +1,47 @@
+body{
+  padding:50px;
+   background-color: rgb(139 0 0 / 73%);
+
+
+}
+
+ .logo{
+  font-size: 1.7rem;
+  font-weight: 700;
+  text-decoration: none;
+  color:rgb(132, 93, 47)
+}
+
+span{
+  color: rgb(42, 13, 18)
+  
+  
+}
+.navbar{
+  background: var(--gradient-white-bg);
+}
+.nav-item {
+  margin-right: 20px;
+  
+}
+.nav-link{
+  font-weight:bold;
+  color:rgb(54, 19, 19)
+}
+.head{
+  font-size: 4rem;
+  font-weight: bolder;
+}
+.portfolio-img{
+  width:80%!important;
+  height:50%!important;
+}
+
+.education .education-item {
+  transition: all 0.3s ease-in-out;
+}
+
+.education .education-item:hover {
+  transform: scale(1.05);
+}
+
