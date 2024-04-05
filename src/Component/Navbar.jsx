@@ -23,9 +23,9 @@ function Navbar( ) {
               <a className="nav-link active" aria-current="page" href="#hero">Hero </a>
             </li>
 
-            <li className="nav-item">
+            {/* <li className="nav-item">
               <a className="nav-link" href="#about">About</a>
-            </li>
+            </li> */}
             
               <li className="nav-item">
                 <a className="nav-link" href="#services">Services</a>
@@ -38,10 +38,10 @@ function Navbar( ) {
 
 
               <li className="nav-item">
-              <a className="nav-link" href="#projects">Project</a>
+              <a className="nav-link" href="#project">Project</a>
             </li>
               <li className="nav-item">
-                <a className="nav-link" href="#timeline">Experience</a>
+                <a className="nav-link" href="#timeline">Experience & Education </a>
               </li>
 
             <li className="nav-item">

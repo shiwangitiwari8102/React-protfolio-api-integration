@@ -51,7 +51,7 @@ const App = () => {
         <div >
             <Navbar />
              <Hero data={heroData} />
-             <AboutMe data={aboutData}></AboutMe> 
+             {/* <AboutMe data={aboutData}></AboutMe>  */}
              
              <Services data={ServicesData}></Services>
              <SkillsList skillsData={skillData}></SkillsList>
